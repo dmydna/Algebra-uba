@@ -1,1 +1,2 @@
-# Algebra-2c2023
+# algebra-uba
+Algebra I (2°C 2023)
